@@ -17,11 +17,11 @@ emailaddress@gmail.com
 # Testing grounds for the DEISy robotics wikipedia/website.
 
 ## Things to include:
-1. About (default page)
-2. Guides
-4. Calculations
-5. Our Robots
-6. Media
+- [ ] About (default page)
+- [ ] Guides
+- [ ] Calculations
+- [ ] Our Robots
+- [ ] Media
 
 **About**
 1. Group picture
