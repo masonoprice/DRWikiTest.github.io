@@ -1,5 +1,2 @@
-layout: page
-title: DEISy Robotics
-permalink: /URL-PATH
-
-theme: Architect
+markdown: kramdown
+theme: minima
