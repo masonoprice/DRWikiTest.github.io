@@ -13,10 +13,11 @@ layout: single
 emailaddress@gmail.com
 (555) 690-3268
 
+---
 
-# Testing grounds for the DEISy robotics wikipedia/website.
+### Markdown cheat sheet [here](https://www.markdownguide.org/cheat-sheet/)
 
-## Things to include:
+# Things to include:
 - [ ] About (default page)
 - [ ] Guides
 - [ ] Calculations
