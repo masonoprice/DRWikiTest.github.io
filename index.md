@@ -22,8 +22,6 @@ emailaddress@gmail.com
 4. Calculations
 5. Our Robots
 6. Media
-7. Contact us
-
 
 **About**
 1. Group picture
